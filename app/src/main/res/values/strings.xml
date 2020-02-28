@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homepage</string>
+    <string name="tab_text_1">Godown</string>
+    <string name="tab_text_2">Map</string>
+    <string name="tab_text_3">Transport</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
